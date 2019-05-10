@@ -1,0 +1,11 @@
+C:\Users\DavidH\source\repos\MarcelloPlay\bin\Debug\netcoreapp2.1\MarcelloPlay.deps.json
+C:\Users\DavidH\source\repos\MarcelloPlay\bin\Debug\netcoreapp2.1\MarcelloPlay.runtimeconfig.json
+C:\Users\DavidH\source\repos\MarcelloPlay\bin\Debug\netcoreapp2.1\MarcelloPlay.runtimeconfig.dev.json
+C:\Users\DavidH\source\repos\MarcelloPlay\bin\Debug\netcoreapp2.1\MarcelloPlay.dll
+C:\Users\DavidH\source\repos\MarcelloPlay\obj\Debug\netcoreapp2.1\MarcelloPlay.csprojAssemblyReference.cache
+C:\Users\DavidH\source\repos\MarcelloPlay\obj\Debug\netcoreapp2.1\MarcelloPlay.csproj.CoreCompileInputs.cache
+C:\Users\DavidH\source\repos\MarcelloPlay\obj\Debug\netcoreapp2.1\MarcelloPlay.AssemblyInfoInputs.cache
+C:\Users\DavidH\source\repos\MarcelloPlay\obj\Debug\netcoreapp2.1\MarcelloPlay.AssemblyInfo.cs
+C:\Users\DavidH\source\repos\MarcelloPlay\bin\Debug\netcoreapp2.1\MarcelloPlay.pdb
+C:\Users\DavidH\source\repos\MarcelloPlay\obj\Debug\netcoreapp2.1\MarcelloPlay.dll
+C:\Users\DavidH\source\repos\MarcelloPlay\obj\Debug\netcoreapp2.1\MarcelloPlay.pdb
